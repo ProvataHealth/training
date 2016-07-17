@@ -61,6 +61,10 @@ build/
 .rvmrc
 
 
-### Sass ###
+## Sass
 .sass-cache
 *.css.map
+
+## IntelliJ
+.idea
+*.iml

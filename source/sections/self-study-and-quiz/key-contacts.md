@@ -4,26 +4,26 @@ This is to ensure that you know whom to reach out to in case you have any questi
 
 Who is the Chief Privacy Officer?
 
-- <input type="checkbox"> Vincent Kenney
-- <input type="checkbox"> Mohan Balachandran
-- <input type="checkbox"> Adam Leko
-- <input type="checkbox"> Travis Good
+- <input type="checkbox"> Aaron Goldberg
+- <input type="checkbox"> Alex Goldberg
+- <input type="checkbox"> Jessica Lund
+- <input type="checkbox"> Sean Adkinson
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Travis Good is the Chief Privacy Officer.</p></blockquote>
+	<blockquote><p>Aaron Goldberg is the Chief Privacy Officer.</p></blockquote>
 </div>
 
 Who is the Chief Security Officer?
 
-- <input type="checkbox"> Mike Ortiz
-- <input type="checkbox"> Mohan Balachandran
-- <input type="checkbox"> Adam Leko
-- <input type="checkbox"> Travis Good
+- <input type="checkbox"> Aaron Goldberg
+- <input type="checkbox"> Alex Goldberg
+- <input type="checkbox"> Jessica Lund
+- <input type="checkbox"> Sean Adkinson
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Adam Leko is the Chief Security Officer.</p></blockquote>
+	<blockquote><p>Sean Adkinson is the Chief Security Officer.</p></blockquote>
 </div>
 
 You have questions and concerns about training - compliance or security related. You should reach out to:
@@ -38,7 +38,7 @@ You have questions and concerns about training - compliance or security related.
 	<blockquote><p>All training related concerns should be communicated either to the Chief Privacy Officer or your manager.</p></blockquote>
 </div>
 
-You receive some questions about the Catalyze BAA from one of our customers. You should reach out to:
+You receive some questions about the Provata Health BAA from one of our customers. You should reach out to:
 
 - <input type="checkbox"> `Chief Privacy Officer`
 - <input type="checkbox"> `Chief Product Officer`
