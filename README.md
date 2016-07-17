@@ -19,3 +19,8 @@ Once you have Middleman installed and working you can complete the following to 
 - `rake sass` compiles styles changes
 - `rake serve_static` runs a simple web server in the build directory
 
+## Attribution
+
+[Catalyze.io](htts://catalyze.io) open-sourced their HIPAA Training [on Github](https://github.com/catalyzeio/policies) and allowed us to use it as a starting point.
+
+This HIPAA Training is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
