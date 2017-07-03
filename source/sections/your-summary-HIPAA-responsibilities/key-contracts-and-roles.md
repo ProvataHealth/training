@@ -10,7 +10,7 @@ Provata Health has a Security Officer and Privacy Officer appointed to assist in
 - Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 - Assist Security Officer as needed
 
-**The Chief Security Officer for Provata Health is Sean Adkinson**. You all have access to his email and phone number through our internal directory. Under this role, his responsibilities are to:
+**The Chief Security Officer for Provata Health is Aaron Goldberg**. You all have access to his email and phone number through our internal directory. Under this role, his responsibilities are to:
 
 - Facilitate the training and supervision of all workforce members
 - Investigate and sanction any workforce member that is in violation of Provata Health security policies and non-compliance with the security regulations

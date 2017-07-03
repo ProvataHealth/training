@@ -7,7 +7,6 @@ Who is the Chief Privacy Officer?
 - <input type="checkbox"> Aaron Goldberg
 - <input type="checkbox"> Alex Goldberg
 - <input type="checkbox"> Jessica Lund
-- <input type="checkbox"> Sean Adkinson
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
@@ -19,11 +18,10 @@ Who is the Chief Security Officer?
 - <input type="checkbox"> Aaron Goldberg
 - <input type="checkbox"> Alex Goldberg
 - <input type="checkbox"> Jessica Lund
-- <input type="checkbox"> Sean Adkinson
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Sean Adkinson is the Chief Security Officer.</p></blockquote>
+	<blockquote><p>Aaron Goldberg is the Chief Security Officer.</p></blockquote>
 </div>
 
 You have questions and concerns about training - compliance or security related. You should reach out to:
